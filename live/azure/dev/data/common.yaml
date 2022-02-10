@@ -1,0 +1,7 @@
+---
+azure_env: 'dev'
+azure_storage_account_name: 'rke2backend'
+azure_rg_name: 'rke2-demo'
+azure_storage_container_name: 'tfstate'
+
+tf_modules: {}

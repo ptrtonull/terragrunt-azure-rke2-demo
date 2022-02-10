@@ -1,0 +1,10 @@
+---
+azure_virtual_network:
+  address_space:
+    - '10.0.0.0/16'
+  name: 'rke2-demo-vnet'
+
+azure_subnet:
+  address_prefixes:
+    - '10.0.1.0/24'
+  name: 'rke2-demo-snet'
